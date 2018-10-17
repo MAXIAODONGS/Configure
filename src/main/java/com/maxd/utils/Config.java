@@ -9,8 +9,8 @@ public class Config {
     public static final String prefix = "wenet:";
     public static  String hostname = "192.168.0.200";
     public static  int port = 22;
-    public static String username = "nroad";
-    public static String password = "xinli87669955";
+    public static String username = "************";
+    public static String password = "*********";
     public static String writePath = "C://s3-configuration";
     public static String sourcePath = "C://s3-configuration/";
     public static String destinationPath = "/app/s3-configuration/";
